@@ -1,6 +1,7 @@
 # OOGR ZeroTier-GUI
 OOGR ZeroTier-GUI is a Python-based graphical user interface (GUI) using Tkinter to manage ZeroTier connections on Linux with style and ease.
 
+![OOGR Zerotier GUI Preview](2.png)
 
 ## ✨ Key Features
 - **Multi-Theme System**: Choose your favorite theme (Default, Dark, Light, Pinky, Zombie Green) instantly via the dropdown menu.
@@ -58,6 +59,7 @@ $ sudo apk add py3-tkinter ufw zerotier-one ttf-dejavu
    ```
 5. Done! you can manage Zerotier-CLI using GUI Mode
 ---
+![OOGR Zerotier GUI Preview](1.png)
 ## 🎨 Theme Preview
 
 The application supports a dynamic theme system selectable from the top-right corner:
