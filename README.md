@@ -43,7 +43,7 @@ $ sudo apk add py3-tkinter ufw zerotier-one ttf-dejavu
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   $ git clone [https://github.com/username/oogr-zerotier-gui.git](https://github.com/username/oogr-zerotier-gui.git)
+   $ git clone https://github.com/DidiSlothStanca/oogr-zerotier-gui.git
    ```
 2. Extract to home
    ```bash
