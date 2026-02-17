@@ -47,7 +47,7 @@ $ sudo apk add py3-tkinter ufw zerotier-one ttf-dejavu
    ```
 2. Extract to home
    ```bash
-   $ tar -xf oogr-zerotier-gui.tar.gz ~/.
+   $ tar -xf oogr-zerotier-gui.tar.gz ~/
    ```
 3. Open folder using terminal
    ```bash
